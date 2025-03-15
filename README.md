@@ -1,4 +1,4 @@
-##👋 Hi, I'm Vinícius!
+## 👋 Hi, I'm Vinícius!
 🔭 Looking for my first opportunity as a backend developer or an internship in IT.
 🌱 Currently studying Software Engineering and improving my Python skills.
 👨‍💻 Practicing programming exercises and building my portfolio on GitHub.
